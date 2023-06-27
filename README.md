@@ -21,7 +21,8 @@ sent to the doctor for review.
  
  Warehouse Monitoring System Oct 2022 – Nov 2022 
 Utilizing CO2 sensors, temperature sensors, and humidity sensors for monitoring grain quality in a warehouse, 
-established IOT technology. 
+established IOT technology.
+https://docs.google.com/presentation/d/1nEHwB2vSDmuTt7t9y34G4XURpQW34IM5/edit?usp=sharing&ouid=108715763407090113953&rtpof=true&sd=true
 
 
  Palliative Auto Feeder June 2022 – Present 
@@ -32,7 +33,7 @@ eye on the glucose level and to examining the prior presence of food in the body
 will be detected, and once parameter are achieved in human body, the feeder will be allowed to feed patients 
 automatically. 
  [Grant worth 2laks rupees received from Innovation and Entrepreneurship Development Centers (IEDC)] 
-
+https://docs.google.com/presentation/d/1zH4RtRiQEmL8tzwBm81ahkgpCXVxMAql/edit?usp=sharing&ouid=108715763407090113953&rtpof=true&sd=true
  
  Air Quality Monitoring System Jan 2023 – Mar 2023 
 Air quality monitoring systems in ports use sensors to detect toxic gases such as sulfur dioxide and nitrogen 
