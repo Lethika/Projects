@@ -1,5 +1,5 @@
 # Projects
-I have uploaded all my project with output link that i have done during by 3years of college
+I have uploaded all my project with output link that i have done during my 3years of college
 
 Natural Language processing 
 Currently working on Natural Language processing project on building a resume classifier assossicated with g2i3labs. 
