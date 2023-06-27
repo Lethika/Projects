@@ -29,7 +29,7 @@ automatically.
 Air quality monitoring systems in ports use sensors to detect toxic gases such as sulfur dioxide and nitrogen 
 oxide. If gas concentrations exceed a predetermined threshold, an alert is triggered, which can be sent to port 
 workers and nearby communities via a notification system, allowing for timely evacuation and protection 
-measures. 
+measures. https://drive.google.com/file/d/1NKU0Z0PKZncyuKXDD2E56Azqqsn_7w8x/view?usp=drivesdk
  
  UI Design for Snow Kingdom Feb 2022 – Mar 2022 
  In this project, I used Figma for designing the UI design for VGP Snow Kingdom. The layout of the snow 
