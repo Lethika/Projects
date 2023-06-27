@@ -7,6 +7,7 @@ EEG. Where relevant data are gathered using sensors and IOT technology, and then
 remote server, processed, and then sent to the patient's device. In the event of an alert, the report is also 
 sent to the doctor for review. 
  [Grant worth 2laks rupees received from Innovation and Entrepreneurship Development Centers (IEDC)] 
+ https://drive.google.com/file/d/1NKU0Z0PKZncyuKXDD2E56Azqqsn_7w8x/view?usp=drivesdk
 
  
  Warehouse Monitoring System Oct 2022 – Nov 2022 
